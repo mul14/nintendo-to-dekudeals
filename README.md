@@ -8,7 +8,7 @@ I Hope it can also help someone.
 
 1. Download https://github.com/mul14/nintendo-to-dekudeals/archive/master.zip and unzip.
 
-2. Open [chrome://extensions/](chrome://extensions/).
+2. Open [chrome://extensions/](chrome://extensions/) or open Settings then choose Extensions.
 
 3. Enable "Developer mode".
 
