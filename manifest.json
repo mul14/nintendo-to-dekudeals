@@ -1,0 +1,12 @@
+{
+  "name": "Nintendo Store to DekuDeals",
+  "version": "1.0",
+  "description": "Show shortcut from Nintendo Store to DekuDeals",
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+      "matches": ["https://*.nintendo.com/games/*"],
+      "js": ["app.js"]
+    }
+  ]
+}
