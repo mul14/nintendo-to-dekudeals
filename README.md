@@ -18,4 +18,4 @@ I Hope it can also help someone.
 
 ## License
 
-[MIT](MIT)
+[MIT](LICENSE)
